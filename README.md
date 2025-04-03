@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about exploring the world of techno
 - 🌍 **Currently Based**: Kerala, India
 - 🌱 **Currently Learning**: AI and Data Science.
 - 🛠️ **Languages**: Python, C, and more to come!
-- 🏀 **Hobbies**: Basketball, working out, reading, and learning German.
+- 🏀 **Hobbies**: Basketball, working out, reading.
 
 ---
 
