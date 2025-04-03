@@ -29,10 +29,5 @@ Welcome to my GitHub profile! I'm passionate about exploring the world of techno
 
 
 ---
-
-## 🌟 Fun Facts
-
-- I dedicate weekends to learning new skills and love exploring creative solutions for real-world problems.
-
 Thanks for visiting my profile! Feel free to check out my repositories and reach out for collaboration or just to say hi! 😊
 
